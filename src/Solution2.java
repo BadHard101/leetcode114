@@ -3,7 +3,6 @@ class Solution2 {
 
     /**
      * Flattens a binary tree to a linked list in-place.
-     *
      * This method uses a depth-first search approach to transform the given binary tree into a linked list.
      * The transformation is done in such a way that all nodes are moved to the right, and the left child of
      * every node is set to null. The order of the nodes in the linked list follows the preorder traversal
